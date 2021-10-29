@@ -1,0 +1,11 @@
+.DS_Store
+data
+output
+.env
+.config
+.local
+rstudio
+.bash_history
+.Rproj.user
+.Rhistory
+.cache
